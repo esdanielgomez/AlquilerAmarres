@@ -1,5 +1,5 @@
-# AlquilerAmarres
-Aplicación de alquiler de amarres para barcos veleros, barcos deportivos a motor y yates construida en Java-Scala.
+# Alquiler de Amarres para Barcos
+Aplicación de alquiler de amarres para barcos veleros, barcos deportivos a motor y yates construida en los lenguajes de programacion Java y Scala con el paradigma de la programacion orientada a objetos. 
 
 # Requerimientos
 
